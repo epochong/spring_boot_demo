@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ming.demo_01.SprinBootApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.797 s - in com.ming.demo_01.SprinBootApplicationTests

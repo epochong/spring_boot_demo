@@ -1,0 +1,60 @@
+{
+  "groups": [
+    {
+      "name": "orders",
+      "type": "com.ming.demo_01.po.Orders",
+      "sourceType": "com.ming.demo_01.po.Orders"
+    },
+    {
+      "name": "user",
+      "type": "com.ming.demo_01.po.User",
+      "sourceType": "com.ming.demo_01.po.User"
+    }
+  ],
+  "properties": [
+    {
+      "name": "orders.order-id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.ming.demo_01.po.Orders",
+      "defaultValue": 0
+    },
+    {
+      "name": "orders.order-name",
+      "type": "java.lang.String",
+      "sourceType": "com.ming.demo_01.po.Orders"
+    },
+    {
+      "name": "user.female",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.ming.demo_01.po.User",
+      "defaultValue": false
+    },
+    {
+      "name": "user.map",
+      "type": "java.util.Map",
+      "sourceType": "com.ming.demo_01.po.User"
+    },
+    {
+      "name": "user.my-list",
+      "type": "java.util.List<java.lang.Object>",
+      "sourceType": "com.ming.demo_01.po.User"
+    },
+    {
+      "name": "user.orders",
+      "type": "com.ming.demo_01.po.Orders",
+      "sourceType": "com.ming.demo_01.po.User"
+    },
+    {
+      "name": "user.user-age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.ming.demo_01.po.User",
+      "defaultValue": 0
+    },
+    {
+      "name": "user.user-name",
+      "type": "java.lang.String",
+      "sourceType": "com.ming.demo_01.po.User"
+    }
+  ],
+  "hints": []
+}
